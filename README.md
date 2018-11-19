@@ -5,12 +5,12 @@ The Agile_group project_app is an app that distiguishes users into 3 groups and 
 There are 3 different types of users; normal users, moderators and admins.
 
 ## Project Features
-1. create the various types of users , ie; the normal, moderate and admins.
-2. create function which anables normal users to to only do teh following;
-- can only create new comments and edit their own comments.
-3.Moderators  can delete any comments
+1. Users can login into the app.
+2. Users can be defined according to 3 user types; ie the normal,   moderate and admins.
+3. Normal users can only create new comments and edit their own comments.
+4. Moderators  can delete any comments
 4. admins can edit or delete any comment
-5. Users can log in and out, and we track when they last logged in
+5. Users can log in and out, and  track when they last logged in
 
 ## Instalation
 
